@@ -30,5 +30,6 @@ body {
     background-color:rgb(0, 0, 0);
 }
 .sm{
-    line-height:normal;
+    border: 2px solid red;
+    border-radius: 5px;
 }
