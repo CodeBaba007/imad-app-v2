@@ -12,7 +12,7 @@ body {
 }
 
 .text-big {
-    font-size: 250%;
+    font-size: 150%;
 }
 
 .bold {
@@ -26,7 +26,4 @@ body {
     font-size: 200%;
     font:Comic Sans MS;
     text-align: center;
-}
-.box{
-    border:1px rgb(153, 194, 255);
 }
