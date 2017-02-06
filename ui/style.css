@@ -12,7 +12,7 @@ body {
 }
 
 .text-big {
-    font-size: 150%;
+    font-size: 250%;
 }
 
 .bold {
@@ -23,7 +23,8 @@ body {
     height: 400px;
 }
 .Ans{
-    font-size: 200%;
+    font-size: 150%;
     font:Comic Sans MS;
     text-align: center;
+    background-color:rgb(255, 218, 179);
 }
