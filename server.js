@@ -5,7 +5,7 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 var counter= 0;
-getRecordFromDatabase('/counter', function (err, data) {
+app.get('/counter', function (req, res) {
   counter = counter + 1;
   req.send(counter.toString());
 });
